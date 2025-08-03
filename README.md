@@ -16,7 +16,7 @@ I'm Girik, a tech wizard who makes AI cry and microcontrollers dance.
 <img src="https://skillicons.dev/icons?i=python,cpp,stm32,arduino,vscode,git" />
 
 
-![Girik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girikarora&show_icons=true&theme=tokyonight)
+![Girik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girik-arora&show_icons=true&theme=tokyonight)
 
 
 ![snake gif](https://github.com/girikarora/girikarora/blob/output/github-contribution-grid-snake.svg)
